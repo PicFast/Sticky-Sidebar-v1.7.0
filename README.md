@@ -1,0 +1,1 @@
+# Sticky-Sidebar-v1.7.0
